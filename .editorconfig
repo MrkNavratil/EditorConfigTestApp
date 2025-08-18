@@ -4,8 +4,8 @@ root = true
 # All Files
 [*]
 indent_style = space
-indent_size = 6
-tab_width = 6
+indent_size = 7
+tab_width = 7
 
 # VS Solution Files
 [*.sln]
